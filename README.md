@@ -45,5 +45,5 @@
 # 🥦 HEALTHY  SWITCHER
 - It is fully responsive!!!
 - 👨🏻‍💻 This is my first site 💻
-- You can [see it 888](https://demgam.github.io/HEALTHY_SWITCHER/)
+- You can [see it here](https://demgam.github.io/HEALTHY_SWITCHER/)
 -->

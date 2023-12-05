@@ -39,8 +39,9 @@
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
   <a href="https://www.npmjs.com" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
 </p>
-
-
+<p align="center">
+<img src="https://alex-demyan-portfolio.000webhostapp.com/img/works/healthy-switcher.png" alt="healthy-switcher cover"/>
+</p>
 <!--
 # 🥦 HEALTHY  SWITCHER
 - It is fully responsive!!!

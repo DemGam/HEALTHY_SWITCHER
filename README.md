@@ -6,26 +6,9 @@
 </h3>
 
 </br>
-
-<ul>
-  <li>
-    <h3>
-        - It is fully responsive!!!
-    </h3>
-  </li>
-  <li>
-    <h3>
-        - 👨🏻‍💻 It is my first site 💻
-    </h3>
-  </li>
-  <li>
-    <h3>
-        - You can <a href="https://demgam.github.io/HEALTHY_SWITCHER/" target="_blank">see it there</a>
-    </h3>
-  </li>
-</ul>
-
+It is a fully responsive and adaptive business card webpage for healthy food restaurants. It was built using modern technologies and taking into account current trends.
 </br>
+You can <a href="https://demgam.github.io/HEALTHY_SWITCHER/" target="_blank">see it there</a>
 
 <h2>
   🔧 Used Technologies & Tools
